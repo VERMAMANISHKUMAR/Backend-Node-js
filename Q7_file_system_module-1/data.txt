@@ -1,0 +1,6 @@
+first name:-manish kumar
+last name:- verma          
+age:- 25
+gender:- male
+city:- delhi
+
